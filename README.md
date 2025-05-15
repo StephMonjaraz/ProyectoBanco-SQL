@@ -8,4 +8,4 @@ Estructura:
 - `sql/`: Scripts SQL
 - `docs/`: Documentación del proyecto
 
-Entrega final: 16 de mayo de 2025
+Entrega final: Viernes 16 de mayo de 2025
